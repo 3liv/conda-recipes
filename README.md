@@ -1,1 +1,1 @@
-# conda-recipies
+# conda-recipes
